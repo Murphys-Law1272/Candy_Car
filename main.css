@@ -1,0 +1,67 @@
+body {
+    background-color: #191919 !important;
+}
+
+.hr1 {
+    margin: 1rem 0;
+    color: #9b51e0;
+    border: 0;
+    border-top: 3px solid;
+    
+}
+
+.header .logo {
+    font-family: 'Pacifico', sans-serif;
+    font-weight: 400;
+    font-size: 24px;
+    color: #9b51e0;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    text-decoration: none;
+}
+
+.header .phone1{
+    font-family: 'Trispace', sans-serif;
+    font-weight: 600;
+    font-size: 20px;
+    color: #9b51e0;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.header .social{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+.dropdown-item {
+   color: #9b51e0;
+   background-color: #191919 ;
+}
+
+.dropdown-menu{
+    --bs-dropdown-bg: #191919;
+}
+
+.navbar {
+    --bs-navbar-brand-color: #9b51e0 !important;
+    --bs-navbar-disabled-color: #9b51e0 !important;
+    --bs-navbar-active-color: #fff !important;
+    --bs-navbar-hover-color: #fff !important;
+    --bs-navbar-brand-hover-color: #fff !important;
+    --bs-navbar-color: #9b51e0 !important;
+    font-family: 'Trispace', cursive;
+    font-weight: 300;
+    font-size: 17px;
+}
+
+
+.video1{
+  max-height: 500px;
+    border: 1px solid #9b51e0;
+}
+

@@ -1,0 +1,212 @@
+body {
+    background-color: #191919 !important;
+}
+
+.hr0 {
+    margin: 1rem 0;
+    color: #9b51e0;
+    border: 0;
+    border-top: 3px solid;
+
+}
+
+.header .logo {
+    font-family: 'Pacifico', sans-serif;
+    font-weight: 400;
+    font-size: 24px;
+    color: #9b51e0;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    text-decoration: none;
+}
+
+.header .phone1 {
+    font-family: 'Trispace', sans-serif;
+    font-weight: 600;
+    font-size: 20px;
+    color: #9b51e0;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.header .social {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.dropdown-item {
+    color: #9b51e0;
+    background-color: #191919;
+}
+
+.dropdown-menu {
+    --bs-dropdown-bg: #191919;
+}
+
+.navbar {
+    --bs-navbar-brand-color: #9b51e0 !important;
+    --bs-navbar-disabled-color: #9b51e0 !important;
+    --bs-navbar-active-color: #fff !important;
+    --bs-navbar-hover-color: #fff !important;
+    --bs-navbar-brand-hover-color: #fff !important;
+    --bs-navbar-color: #9b51e0 !important;
+    font-family: 'Trispace', cursive;
+    font-weight: 300;
+    font-size: 17px;
+}
+
+.h1 {
+    font-family: 'Trispace', sans-serif;
+    font-weight: 800;
+    font-size: 45px;
+    color: #9b51e0;
+    margin-top: 20px;
+}
+
+.hr1 {
+    margin: 1rem 0;
+    color: #9b51e0;
+    border: 0;
+    border-top: 7px solid;
+
+}
+
+.video1 video {
+    height: 700px !important;
+    margin-top: 40px;
+
+
+}
+
+.info p {
+    font-family: 'Trispace', sans-serif;
+    font-weight: 300;
+    font-size: 25px;
+    color: #fff;
+    line-height: 40px;
+}
+
+.hr2 {
+    margin: 1rem 0;
+    color: #fff;
+    border: 0;
+    border-top: 3px solid;
+}
+
+.info h2 {
+    font-family: 'Trispace', sans-serif;
+    font-weight: 800;
+    font-size: 30px;
+    color: #9b51e0;
+}
+
+.mini-menu .item {
+    font-family: 'Trispace', sans-serif;
+    font-weight: 300;
+    font-size: 25px;
+    color: #fff;
+    line-height: 34 px;
+    padding-top: 15px;
+}
+
+.info span {
+    font-family: 'Trispace', sans-serif;
+    font-weight: 300;
+    font-size: 25px;
+    color: #fff;
+    line-height: 40px;
+}
+
+
+.scroll li {
+    list-style-type: none;
+}
+
+.scroll li:before {
+    content: " ★ ";
+    color: #9b51e0;
+}
+
+.subtitle p {
+    font-family: 'Trispace', sans-serif;
+    font-weight: 800;
+    font-size: 30px;
+    color: #9b51e0;
+}
+
+.btn-primary {
+    --bs-btn-color: #191919;
+    --bs-btn-bg: #9b51e0;
+    --bs-btn-border-color: #191919;
+    --bs-btn-hover-color: #191919;
+    --bs-btn-hover-bg: #fff;
+    --bs-btn-hover-border-color: #191919;
+    --bs-btn-focus-shadow-rgb: 49, 132, 253;
+    --bs-btn-active-color: #191919;
+    --bs-btn-active-bg: #fff;
+    --bs-btn-active-border-color: #191919;
+    --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+    --bs-btn-disabled-color: #191919;
+    --bs-btn-disabled-bg: #fff;
+    --bs-btn-disabled-border-color: #0d6efd;
+
+}
+
+.enroll_main .enroll {
+    font-family: 'Trispace', sans-serif;
+    font-weight: 800;
+    font-size: 45px;
+    color: #9b51e0;
+    margin-top: 50px;
+}
+
+.hr3 {
+    margin: 1rem 0;
+    color: #fff;
+    border: 0;
+    border-top: 3px solid;
+}
+
+.btn_enroll {
+    margin: 80px auto !important;
+    display: flex !important;
+    justify-content: center !important;
+    font-size: 40px;
+    font-family: 'Trispace', sans-serif;
+    font-weight: 800;
+}
+
+.card {
+    --bs-card-border-width: none;
+    --bs-card-border-color: none;
+    --bs-card-border-radius: none;
+    --bs-card-box-shadow: none;
+    --bs-card-bg: none;
+}
+
+.footer_title {
+    font-family: 'Trispace', sans-serif;
+    font-weight: 600;
+    font-size: 35px;
+    color: #9b51e0;
+    margin-top: 75px;
+}
+
+.footer_subtitle{
+    font-family: 'Trispace', sans-serif;
+    font-weight: 600;
+    font-size: 30px;
+    color: #9b51e0;
+    
+}
+
+
+.hr4 {
+    margin: 0 auto;
+    border: 0;
+    border-top: 10px solid #9b51e0;
+}
